@@ -1,4 +1,4 @@
-package com.acadamy.lesson02;
+package com.academy.lesson02;
 
 /**
  * Created by HanSolo on 25.10.2019.
