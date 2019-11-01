@@ -26,6 +26,7 @@ public class DataTypes {
         System.out.println(y);
         System.out.println(2%2);
         System.out.println(4%5);
+        System.out.println("Divide");
 
         //Операторы сравнения
         int k1 = 20;

@@ -6,7 +6,7 @@ import static java.lang.Integer.*;
 
 public class StringManipulations {
     public static void main(String[] args) {
-        String[] tracks = {"track_01", "track_03", "track_21", "track_15", "track_12", "track_99", "track_11", "track_10"};
+        String[] tracks = {"track_01", "track_03", "track_21", "track_15", "track_12", "track_99", "track_10", "track_12"};
         System.out.println(Arrays.toString(tracks));
         System.out.println(extractNumber(tracks[2]));
 
