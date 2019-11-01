@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Inna_Bagmut_telesens.iml" filepath="$PROJECT_DIR$/Inna_Bagmut_telesens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Inna_Bagmut_telesens.iml" filepath="$PROJECT_DIR$/.idea/Inna_Bagmut_telesens.iml" />
     </modules>
   </component>
 </project>

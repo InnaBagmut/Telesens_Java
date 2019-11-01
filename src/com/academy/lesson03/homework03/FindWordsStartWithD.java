@@ -23,13 +23,13 @@ import java.util.List;
             String phrase = reader.readLine();
             System.out.println("You entered: " + phrase);
             List<String> separateWords = Arrays.asList(phrase.split(" "));
-
-            List<Integer> dwords = new ArrayList<>();
+            List<String> dwords = new ArrayList<>();
             for (int i = 0; i < separateWords.size(); i++) {
                 if (separateWords.get(i).startsWith("d"))
-                    dwords.add(i);
-                System.out.println(separateWords.get(i));
+                    dwords.add(separateWords.get(i));
+               // System.out.println(separateWords.get(i));
             }
+            System.out.println(dwords);
             System.out.println("Number of words started with d: " + dwords.size());
         }
     }
